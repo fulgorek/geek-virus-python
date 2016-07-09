@@ -29,7 +29,7 @@ Clone the repo:
 
 `git clone git@github.com:fulgorek/geek-virus-python.git`
 
-Open `run.rb` and change your `email/jobs`
+Open `run.py` and change your `email/jobs`
 
 Execute:
 
